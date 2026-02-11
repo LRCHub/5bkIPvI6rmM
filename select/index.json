@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "69",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-11T15:38:51.896813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nothing Really Matters (Club 69 Radio Mix) - 2022 Remaster",
+      "artist": "Madonna feat. Peter Rauhofer",
+      "has_synced": false,
+      "path": "select/01_Nothing_Really_Matters_(Club_69_Radio_Mix)_-_2022_Remaster_Madonna_feat._Peter_Rauhofer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butter of 69",
+      "artist": "Butter 08",
+      "has_synced": false,
+      "path": "select/02_Butter_of_69_Butter_08.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Der Kommissar (Club 69 Radio Mix)",
+      "artist": "Falco",
+      "has_synced": false,
+      "path": "select/03_Der_Kommissar_(Club_69_Radio_Mix)_Falco.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's No Good (Club 69 Future Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/04_It's_No_Good_(Club_69_Future_Mix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer Of '69",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": true,
+      "path": "select/05_Summer_Of_'69_The_Cooltrane_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Five Fathoms (Club 69 Future Club Mix)",
+      "artist": "Everything But the Girl",
+      "has_synced": false,
+      "path": "select/06_Five_Fathoms_(Club_69_Future_Club_Mix)_Everything_But_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Star 69",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/07_Star_69_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Star 69",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/08_Star_69_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Star 69 (DJ Delite)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/09_Star_69_(DJ_Delite)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Star 69 - DJ Godfather Detroit Getto-Tek Mix 1;",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/10_Star_69_-_DJ_Godfather_Detroit_Getto-Tek_Mix_1;_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Star 69 (DJ Godfather Detroit Getto-Tek Mix 1)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/11_Star_69_(DJ_Godfather_Detroit_Getto-Tek_Mix_1)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "69",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_69_ONE_OK_ROCK.txt"
+    }
+  ]
+}
